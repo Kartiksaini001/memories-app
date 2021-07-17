@@ -2,7 +2,7 @@
     base = "client/"
     publish="build/"
     command = "npm run build"
-    environment = { CI = false }
+    environment = { CI = "false" }
 
 [[redirects]]
     from = "/*"
