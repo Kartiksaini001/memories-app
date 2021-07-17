@@ -1,6 +1,6 @@
 ## Memories App
 
-This is a social-platform built using MERN stack where users can create there posts/memories and, search and like other users memories. Checkout live preview from [here](https://github.com/Kartiksaini001/memories-app).
+This is a social-platform built using MERN stack where users can create there posts/memories and, search and like other users memories. Checkout live preview from [here](https://live-memories-app.netlify.app/).
 
 ### Features
 
